@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    width: auto;
+    color: white;
+}
+
+
+
+
+form,p {
+    text-align: center;
+}
+
+input {
+    margin-top: 30px;
+}
+
